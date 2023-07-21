@@ -4,7 +4,7 @@
 youtube_video_url="https://www.youtube.com/watch?v=nYgSZvKWucA"
 
 # عدد النوافذ التي ترغب في فتحها وتشغيل الفيديو في كل نافذة
-num_windows=2000
+num_windows=55
 
 # حلقة تكرار لفتح النوافذ وتشغيل الفيديو في كل نافذة بشكل خفي
 for ((i = 1; i <= num_windows; i++))
